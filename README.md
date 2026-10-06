@@ -1,11 +1,10 @@
 👨🏻‍💻 **Shares**
 
+ - [Custom Linux Kernel](https://github.com/azagramac/linux-kernel)
  - [Breezy-weather, Translation](https://hosted.weblate.org/changes/?user=AzagraMac&action=2&action=5) - [Android App](https://github.com/breezy-weather/breezy-weather/releases)
  - [Duinocoin, Telegram Bot](https://duinocoin.com/apps.html) - [Telegram bot](https://github.com/azagramac/DuinoCoinTelegramBot)
- - [Wireguard docker](https://github.com/azagramac/wireguard-docker)
- - [Adguardhome docker](https://github.com/azagramac/adguardhome-docker)
+ - [Wireguard docker](https://github.com/azagramac/wireguard-docker) - [Adguardhome docker](https://github.com/azagramac/adguardhome-docker)
  - [WireGuard for Ubiquiti EdgeRouter 4](https://blog.azagra.dev/unifi/configurar-wireguard-en-edgerouter-4-6p)
-
 
 🗒 **Tech stuff:**
 
@@ -15,7 +14,7 @@
 ---
 👥 **Follow me** 
 
-[![GitHub](https://img.shields.io/badge/-github-171515?style=flat&labelColor=171515&logo=github&logoColor=white)](https://github.com/AzagraMac/)
+[![GitHub](https://img.shields.io/badge/-github-171515?style=flat&labelColor=171515&logo=github&logoColor=white)](https://github.com/azagramac)
 [![DockerHub](https://img.shields.io/badge/-dockerhub-086dd7?style=flat&labelColor=086dd7&logo=docker&logoColor=white)](https://hub.docker.com/repositories/azagramac)
 [![Blog](https://img.shields.io/badge/-gitbook-0088cc?style=flat&labelColor=0088cc&logo=gitbook&logoColor=white)](https://blog.azagra.dev)
 [![Keybase](https://img.shields.io/badge/-keybase-3663ea?style=flat&labelColor=ff6f21&logo=keybase&logoColor=white)](https://keybase.io/joselazagra)
