@@ -1,10 +1,10 @@
 👨🏻‍💻 **Shares**
 
- - [Custom Linux Kernel](https://github.com/azagramac/linux-kernel)
- - [Breezy-weather, Translation](https://hosted.weblate.org/changes/?user=AzagraMac&action=2&action=5) - [Android App](https://github.com/breezy-weather/breezy-weather/releases)
- - [Duinocoin, Telegram Bot](https://duinocoin.com/apps.html) - [Telegram bot](https://github.com/azagramac/DuinoCoinTelegramBot)
- - [Wireguard docker](https://github.com/azagramac/wireguard-docker) - [Adguardhome docker](https://github.com/azagramac/adguardhome-docker)
- - [WireGuard for Ubiquiti EdgeRouter 4](https://blog.azagra.dev/unifi/configurar-wireguard-en-edgerouter-4-6p)
+ - [🐧 Custom Linux Kernel](https://github.com/azagramac/linux-kernel)
+ - [🛡️ Centinela](https://centinela.azagra.dev)
+ - [⛅️ Breezy-weather](https://hosted.weblate.org/changes/?user=AzagraMac&action=2&action=5) - [Android App](https://github.com/breezy-weather/breezy-weather/releases)
+ - [B Duinocoin, Telegram Bot](https://duinocoin.com/apps.html) - [🤖 Telegram bot](https://github.com/azagramac/DuinoCoinTelegramBot)
+ - [🐳 Wireguard docker](https://github.com/azagramac/wireguard-docker) - [🐳 Adguardhome docker](https://github.com/azagramac/adguardhome-docker
 
 🗒 **Tech stuff:**
 
@@ -20,6 +20,5 @@
 [![Keybase](https://img.shields.io/badge/-keybase-3663ea?style=flat&labelColor=ff6f21&logo=keybase&logoColor=white)](https://keybase.io/joselazagra)
 
 </a>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azagramac&label=Hello&color=0e75b6&style=flat" /> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="35px"/> </p>
