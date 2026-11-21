@@ -4,7 +4,7 @@
  - [🛡️ Centinela](https://centinela.azagra.dev)
  - [⛅️ Breezy-weather](https://hosted.weblate.org/changes/?user=AzagraMac&action=2&action=5) - [Android App](https://github.com/breezy-weather/breezy-weather/releases)
  - [B Duinocoin, Telegram Bot](https://duinocoin.com/apps.html) - [🤖 Telegram bot](https://github.com/azagramac/DuinoCoinTelegramBot)
- - [🐳 Wireguard docker](https://github.com/azagramac/wireguard-docker) - [🐳 Adguardhome docker](https://github.com/azagramac/adguardhome-docker
+ - [🐳 Wireguard docker](https://github.com/azagramac/wireguard-docker) - [🐳 AdguardHome docker](https://github.com/azagramac/adguardhome-docker)
 
 🗒 **Tech stuff:**
 
